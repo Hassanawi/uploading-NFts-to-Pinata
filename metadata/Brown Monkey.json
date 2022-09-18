@@ -1,0 +1,19 @@
+{
+    "name": "Brown Ape",
+    "description": "Friendly cartoon.",
+    "image":"https://gateway.pinata.cloud/ipfs/QmYhgTmfbWxUdyPn2AxpLj2TQdKLCsfr7khEd7wbHLzVaw",
+    "attributes": [
+        {
+            "trait_type ": " Personality",
+            "value": "crying"
+        },
+        {
+            "trait_type ": "color",
+            "value": "brown"
+        },
+        {
+            "trait_type ": " Network",
+            "value": "Rinkeby testnet"
+        }
+    ]
+}

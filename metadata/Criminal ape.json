@@ -1,0 +1,19 @@
+{
+    "name": "Criminal Ape",
+    "description": "Friendly cartoon.",
+    "image":"https://gateway.pinata.cloud/ipfs/QmVfBPYuymyGskvvFnMtuUf5epdqpnK1TQy54VhGtiLQgy",
+    "attributes": [
+        {
+            "trait_type ": " Personality",
+            "value": "Criminal"
+        },
+        {
+            "trait_type ": "color",
+            "value": "yellow"
+        },
+        {
+            "trait_type ": " Network",
+            "value": "Rinkeby testnet"
+        }
+    ]
+}

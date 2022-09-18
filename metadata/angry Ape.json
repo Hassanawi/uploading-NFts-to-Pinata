@@ -1,0 +1,19 @@
+{
+    "name": "angry Ape",
+    "description": "Highly furious ape",
+    "image":"https://gateway.pinata.cloud/ipfs/QmWDKaMork5mkuMTUpGD6qYkQH8UKGVAhw52oFsazYNPd8",
+    "attributes": [
+        {
+            "trait_type ": " Personality",
+            "value": "angry"
+        },
+        {
+            "trait_type ": "color",
+            "value": "grey color"
+        },
+        {
+            "trait_type ": " Network",
+            "value": "Rinkeby testnet"
+        }
+    ]
+}
