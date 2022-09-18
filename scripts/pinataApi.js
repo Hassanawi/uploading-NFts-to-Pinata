@@ -3,10 +3,10 @@ const path = require("path");
 const fs = require("fs");
 const axios = require("axios");
 const Formdata = require("form-data");
-const pinataEndPoint = "https://api.pinata.cloud/pinning/pinFileToIPFS";
-const pinataAPI = "815baa4d5bb61868e4e1";
+const pinataEndPoint = "";
+const pinataAPI = "";
 const pinataApiSecret =
-  "259c361bf15ce15f9ee8433525896e23ff20ac09561c223cd89e75fbb20f68a0";
+  "";
 
 const PinImageToIpfs = async (filePath, filename) => {
   const form_data = new Formdata();
