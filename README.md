@@ -23,11 +23,11 @@ const pinataApiSecret ="";
 run the following command in terminal
 
 - to install dependencies
-```http
+```
   npm i --yes
 ```
 - to get uploaded file hash
-```http
+```
   node /scripts/uploadMetadata.js
 ```
 
@@ -38,14 +38,14 @@ The image hash will be updated to the ```metadata``` folder in respective file.
 ## Pre-Requisites
 
 Make sure the your JSON files in ```metadata``` folder have the 
-```http
+```
    "image":"",
 ```
 in line no 4
 
 Or you can update the code in ```scripts/pinataApi.js```
 
-```http
+```
       read_filedata.splice(
       3,
       1,
